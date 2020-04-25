@@ -1,0 +1,74 @@
+[   
+   {
+    "address": "서울특별시 강동구 고덕동 1-1",
+    "name": "Goduk 아이파크",
+    "space": 84.77,
+    "price": 755000000,
+    "var": 114500000,
+    "probability": 1,
+    "posted": "August 12, 2016",
+    "checked": "March 12, 2017",
+    "accuracy": 92,
+    "difference": 50000000
+    },
+    {
+    "address": "서울특별시 성동구 옥수동 1-1",
+    "name": "현대아파트",
+    "space": 80.99,
+    "price": 755000000,
+    "var": 50145000,
+    "probability": 5,
+    "posted": "August 12, 2000",
+    "checked": "August 12, 2000",
+    "accuracy": 92,
+    "difference": 50000000
+    },
+    {
+    "address": "서울특별시 강남구 역삼동 1-1",
+    "name": "Yeoksam I-Park",
+    "space": 59.77,
+    "price": 755000000,
+    "var": 31045000,
+    "probability": 5,
+    "posted": "August 12, 2000",
+    "checked": "August 12, 2000",
+    "accuracy": 90,
+    "difference": 50000000
+    },
+    {
+    "address": "서울특별시 강남구 청담동 1-1",
+    "name": "자이 파크",
+    "space": 56.99,
+    "price": 755000000,
+    "var": 7550000,
+    "probability": 5,
+    "posted": "August 12, 2000",
+    "checked": "August 12, 2000",
+    "accuracy": 100,
+    "difference": 50000000
+    },
+    {
+    "address": "서울특별시 강동구 상일동 1-1",
+    "name": "롯데캐슬",
+    "space": 84.77,
+    "price": 755000000,
+    "var": 8450000,
+    "probability": 5,
+    "posted": "August 12, 2000",
+    "checked": "August 12, 2000",
+    "accuracy": 100,
+    "difference": 50000000
+    },
+    {
+    "address": "서울특별시 성동구 금호동 1-1",
+    "name": "파크 자이",
+    "space": 120.77,
+    "price": 873302934,
+    "var": 134500120,
+    "probability": 5,
+    "posted": "August 12, 2000",
+    "checked": "August 12, 2000",
+    "accuracy": 100,
+    "difference": 50000000
+    }
+]
