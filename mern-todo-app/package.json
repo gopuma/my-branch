@@ -28,7 +28,7 @@
     "react-router-dom": "^5.1.2",
     "react-script": "^2.0.5",
     "react-thunk": "^1.0.0",
-    "redis": "^3.0.2",
+    "redis": "^3.1.1",
     "redux": "^4.0.5"
   }
 }
