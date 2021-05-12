@@ -35,7 +35,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.3",
     "node-uuid": "^1.4.8",
-    "nodemailer": "^6.4.4",
+    "nodemailer": "^6.4.16",
     "object-assign": "4.1.1",
     "pg": "^7.18.2",
     "postcss-flexbugs-fixes": "3.2.0",
