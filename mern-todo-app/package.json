@@ -19,7 +19,7 @@
     "mongodb": "^3.5.3",
     "mongoose": "^5.9.2",
     "node-uuid": "^1.4.8",
-    "nodemailer": "^6.4.4",
+    "nodemailer": "^6.4.16",
     "pg": "^7.18.2",
     "pug": "^2.0.4",
     "react": "^16.12.0",
