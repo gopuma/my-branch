@@ -32,7 +32,7 @@
     "fs-extra": "3.0.1",
     "html-webpack-plugin": "2.29.0",
     "jest": "20.0.4",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.9.3",
     "node-uuid": "^1.4.8",
     "nodemailer": "^6.4.4",
